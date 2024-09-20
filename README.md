@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Header Image" width="100%" />
+  <img src="https://www.google.com/search?sca_esv=7ffb7a96b4e8ce9c&sca_upv=1&rlz=1C1GCEA_enIN1079IN1079&sxsrf=ADLYWILmt2fOUqBcgjnoOxk4pttaRwrKQw:1726825995051&q=welcome+to+my+github+profile+gif&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lnWG24CJyJaTNS71YrKarc0ftUb-FuEl5dGDzSifp_xlnYbiDYDYVLSdxE4USVNbqVItJsloTE9JlYu5P6-F0nZboVNHlQTehbRLsePxsEHE4MEPiskdvbhGZOj8g22CQThkD7s&udm=2&sa=X&ved=2ahUKEwiPj5iQoNGIAxWee2wGHVjtCZEQxKsJegQICxAB&ictx=0&biw=1163&bih=501&dpr=1.65#vhid=N8Ehn8UbrUx_CM&vssid=mosaic" />
 </p>
 
 <!-- Profile Title -->
@@ -14,13 +14,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <!-- About Section -->
 ## About Me
-I'm a passionate Full Stack Developer with expertise in building modern web applications. I have a strong foundation in front-end and back-end development, working with technologies such as **HTML**, **CSS**, **JavaScript**, **React**, **Angular**, **Node.js**, and **MySQL**. I enjoy solving complex problems, continuously learning, and building products that provide seamless user experiences.
+I'm a passionate Full Stack Developer with expertise in building modern web applications. My skill set spans both front-end and back-end development, using technologies such as *HTML, **CSS, **JavaScript, **React, **Angular, **Node.js, **Java, and **MySQL*. I love crafting efficient, scalable solutions and constantly learning new tools and technologies to improve my workflow.
 
 <!-- Skills Section -->
 ## Skills
@@ -32,6 +33,7 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 
 ### Back-end
 - Node.js, Express.js
+- Java, Spring Boot
 - RESTful APIs
 - Authentication & Authorization
 
@@ -41,7 +43,6 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 
 ### Tools
 - Git & GitHub
-- Docker, Nginx
 - Postman, Jenkins
 
 <!-- Projects Section -->
@@ -55,13 +56,13 @@ A brief description of your project.
 <!-- Connect with Me -->
 ## Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="https://www.linkedin.com/in/niraj-kumar-7018062bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Niraj6291">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.nk9408915@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
