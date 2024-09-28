@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://www.google.com/search?sca_esv=7ffb7a96b4e8ce9c&sca_upv=1&rlz=1C1GCEA_enIN1079IN1079&sxsrf=ADLYWILmt2fOUqBcgjnoOxk4pttaRwrKQw:1726825995051&q=welcome+to+my+github+profile+gif&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lnWG24CJyJaTNS71YrKarc0ftUb-FuEl5dGDzSifp_xlnYbiDYDYVLSdxE4USVNbqVItJsloTE9JlYu5P6-F0nZboVNHlQTehbRLsePxsEHE4MEPiskdvbhGZOj8g22CQThkD7s&udm=2&sa=X&ved=2ahUKEwiPj5iQoNGIAxWee2wGHVjtCZEQxKsJegQICxAB&ictx=0&biw=1163&bih=501&dpr=1.65#vhid=N8Ehn8UbrUx_CM&vssid=mosaic" />
+  <img src="[https://www.google.com/search?sca_esv=7ffb7a96b4e8ce9c&sca_upv=1&rlz=1C1GCEA_enIN1079IN1079&sxsrf=ADLYWILmt2fOUqBcgjnoOxk4pttaRwrKQw:1726825995051&q=welcome+to+my+github+profile+gif&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lnWG24CJyJaTNS71YrKarc0ftUb-FuEl5dGDzSifp_xlnYbiDYDYVLSdxE4USVNbqVItJsloTE9JlYu5P6-F0nZboVNHlQTehbRLsePxsEHE4MEPiskdvbhGZOj8g22CQThkD7s&udm=2&sa=X&ved=2ahUKEwiPj5iQoNGIAxWee2wGHVjtCZEQxKsJegQICxAB&ictx=0&biw=1163&bih=501&dpr=1.65#vhid=N8Ehn8UbrUx_CM&vssid=mosaic](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0WDBLKfLYW_6_BfxXJ-we3&ust=1727585177580000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjd9q3q5IgDFQAAAAAdAAAAABAE)" />
 </p>
 
 <!-- Profile Title -->
@@ -21,7 +21,7 @@
 
 <!-- About Section -->
 ## About Me
-I'm a passionate Full Stack Developer with expertise in building modern web applications. My skill set spans both front-end and back-end development, using technologies such as *HTML, **CSS, **JavaScript, **React, **Angular, **Node.js, **Java, and **MySQL*. I love crafting efficient, scalable solutions and constantly learning new tools and technologies to improve my workflow.
+I am a front-end developer with a strong foundation in HTML, CSS, and JavaScript. I am currently expanding my skills by studying Angular and Java, after which I plan to transition into back-end development.
 
 <!-- Skills Section -->
 ## Skills
